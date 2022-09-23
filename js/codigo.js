@@ -50,3 +50,4 @@ while (triunfos < 3 && perdidas < 3){
 
 alert("Ganaste " + triunfos + " veces. Perdiste " + perdidas + " veces. Empataste " + empates + " veces." )
 
+//prueba
